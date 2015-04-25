@@ -1,0 +1,216 @@
+//@import 'normalize';
+
+$bodybg: #FFF;
+$prim: #AE1215;
+$sec: #292929;
+$accent: #AE1215;
+$light-gray: #ababab;
+$light: #fff;
+$dark: #000; 
+$navheight: 50px;
+$sans: 'Open Sans', sans-serif;
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: $bodybg;
+}
+
+//Navigation
+#navbar{
+    height: $navheight;
+    background: rgba(249, 249, 249, .7);
+    
+    ul{
+        height: $navheight;
+        margin: 0px;
+        padding: 0px;
+        display: inline-block;
+        
+        li{
+            display: inline-block;
+            padding: 0px;
+            margin: 0px;
+            
+            a{
+                line-height: $navheight;
+                display: block;
+                padding: 0px 10px;
+                color: $accent;
+                font-size: 20px;
+            }
+            a:hover{
+                color: $dark;
+            }
+        }
+    }
+}
+
+//Typography
+h1, h2, h3, h4, h5, h6, p, a, li{
+    font-family: $sans;
+}
+
+a{
+    text-decoration: none;
+    color: $accent;
+}
+h1{
+    font-size: 32;}
+h2{
+    font-size: 28;}
+h3{
+    font-size: 24;}
+h4{
+    font-size: 20;}
+p, a{
+    font-size: 16px;}
+li{
+    list-style-type: none;
+}
+
+//Index page
+.banner{
+    height: 50vh;
+    background: $sec;
+    margin: 0px;
+    padding: 30px;
+    
+    h1, h2, p{
+        text-align: center;
+        color: $light;
+        line-height: 1.3em;
+    } 
+    
+    img{
+        display: block;
+        margin: 0px auto;
+        max-width: 50%;
+        max-height: 50%;
+    }
+} 
+
+.columns{
+    margin: 0px;
+    padding: 0px;
+    background: $prim;
+    height: auto;
+    display: block;
+    color: $light;
+
+    .column{
+        width: 30%;
+        padding: 20px;
+        display: table-cell;
+        vertical-align: top;
+    }
+
+    #one{
+        height: 100%;
+        border-right: 2px dotted $dark;
+   }     
+    #three{
+        height: 100%;
+        border-left: 2px dotted $dark;
+    }
+    a{color: $light-gray;}
+    a:hover{color: $light;}
+}        
+
+.page{
+    padding: 20px 10%;
+    min-height: 90vh;
+}
+
+.gray{
+    background: $sec;
+    color: $bodybg; 
+
+    a{
+        color: $accent + #303030;
+    }
+    
+    a:hover{
+        color: $bodybg - #404040;
+    }
+}
+
+.red{
+    background: $prim;
+    color: $sec; 
+
+    a {
+        color: $bodybg;
+    }
+
+    a:hover{
+        color: $sec;
+    }
+}
+
+.white{
+    background: $bodybg;
+    color: $sec;
+}
+
+//About us page
+.officer{
+    //width: 45%;
+    //min-width: 500px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+    img {
+        border: 2px solid $bodybg;
+        display: inline-block;
+        max-width: 20%;
+        max-height: 150px;
+        min-height: 100px;
+        min-width: 100px;
+    }
+
+    .text {
+        display: inline-block;
+        vertical-align: top;
+        margin: auto 0;
+        padding: 0 10px;
+        width: 70%;
+    
+        h3{
+            margin: 0px;
+        }
+    }
+}
+
+.meeting{
+    width: 30%;
+    min-width: 300px;
+    padding: 10px;
+
+    strong{
+        color: $accent;}
+}
+
+.footer{
+    padding: 20px;
+    margin: 0px;
+    
+    h4{
+        color: $dark;
+    }
+}
+
+@media (max-width: 550px){
+    .officer{
+        min-width: 300px;
+        max-width: 100%;
+    }
+    
+    #navbar{
+        display:none;
+    }    
+    #mobile-nav{
+        display: block;
+    }
+}

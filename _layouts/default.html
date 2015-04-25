@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+    <title>{{ site.title }}</title>
+    <meta charset='utf-8'>
+    <link rel='stylesheet' href='/assets/css/main.css' type='text/css'>
+    <meta name='viewport' content='width=device-width'>
+    </head>
+   <body>
+        <div id='navbar'>
+            <ul>
+                <li><a href='{{ site.url }}/'>Home</a></li>
+                <li><a href='{{ site.url }}/about'>About us</a></li>
+                <li><a href='{{ site.url }}/meeting-notes'>Meeting Notes</a></li>
+                <li><a href='{{ site.url }}/resources.html'>Resources</a></li>
+                <li><a href='{{ site.url }}/code-of-ethics.html'>Code of Ethics</a></li>
+            </ul>
+        </div>
+        {{ content }}
+        <div class='footer'>
+            <h4>This site is created and maintained by <a href='http://github.com/lucywyman'>Lucy Wyman</a></h4>
+        </div>
+    </body>
+</html>
+
+

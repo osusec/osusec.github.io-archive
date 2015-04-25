@@ -1,0 +1,158 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #FFF; }
+
+#navbar {
+  height: 50px;
+  background: rgba(249, 249, 249, 0.7); }
+  #navbar ul {
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block; }
+    #navbar ul li {
+      display: inline-block;
+      padding: 0px;
+      margin: 0px; }
+      #navbar ul li a {
+        line-height: 50px;
+        display: block;
+        padding: 0px 10px;
+        color: #AE1215;
+        font-size: 20px; }
+      #navbar ul li a:hover {
+        color: #000; }
+
+h1, h2, h3, h4, h5, h6, p, a, li {
+  font-family: "Open Sans", sans-serif; }
+
+a {
+  text-decoration: none;
+  color: #AE1215; }
+
+h1 {
+  font-size: 32; }
+
+h2 {
+  font-size: 28; }
+
+h3 {
+  font-size: 24; }
+
+h4 {
+  font-size: 20; }
+
+p, a {
+  font-size: 16px; }
+
+li {
+  list-style-type: none; }
+
+.banner {
+  height: 50vh;
+  background: #292929;
+  margin: 0px;
+  padding: 30px; }
+  .banner h1, .banner h2, .banner p {
+    text-align: center;
+    color: #fff;
+    line-height: 1.3em; }
+  .banner img {
+    display: block;
+    margin: 0px auto;
+    max-width: 50%;
+    max-height: 50%; }
+
+.columns {
+  margin: 0px;
+  padding: 0px;
+  background: #AE1215;
+  height: auto;
+  display: block;
+  color: #fff; }
+  .columns .column {
+    width: 30%;
+    padding: 20px;
+    display: table-cell;
+    vertical-align: top; }
+  .columns #one {
+    height: 100%;
+    border-right: 2px dotted #000; }
+  .columns #three {
+    height: 100%;
+    border-left: 2px dotted #000; }
+  .columns a {
+    color: #ababab; }
+  .columns a:hover {
+    color: #fff; }
+
+.page {
+  padding: 20px 10%;
+  min-height: 90vh; }
+
+.gray {
+  background: #292929;
+  color: #FFF; }
+  .gray a {
+    color: #de4245; }
+  .gray a:hover {
+    color: #bfbfbf; }
+
+.red {
+  background: #AE1215;
+  color: #292929; }
+  .red a {
+    color: #FFF; }
+  .red a:hover {
+    color: #292929; }
+
+.white {
+  background: #FFF;
+  color: #292929; }
+
+.officer {
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top; }
+  .officer img {
+    border: 2px solid #FFF;
+    display: inline-block;
+    max-width: 20%;
+    max-height: 150px;
+    min-height: 100px;
+    min-width: 100px; }
+  .officer .text {
+    display: inline-block;
+    vertical-align: top;
+    margin: auto 0;
+    padding: 0 10px;
+    width: 70%; }
+    .officer .text h3 {
+      margin: 0px; }
+
+.meeting {
+  width: 30%;
+  min-width: 300px;
+  padding: 10px; }
+  .meeting strong {
+    color: #AE1215; }
+
+.footer {
+  padding: 20px;
+  margin: 0px; }
+  .footer h4 {
+    color: #000; }
+
+@media (max-width: 550px) {
+  .officer {
+    min-width: 300px;
+    max-width: 100%; }
+
+  #navbar {
+    display: none; }
+
+  #mobile-nav {
+    display: block; } }
+
+/*# sourceMappingURL=main.css.map */

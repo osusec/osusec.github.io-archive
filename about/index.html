@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<section class='page gray'>
+    <h1 class='title'>About us</h1>
+    <p>The OSU Security Club was founded in September, 2014 by Daniel Reichert, and is guided
+by <a href="http://web.engr.oregonstate.edu/~rosulekm/">Dr. Mike Rosulek</a>.  
+We focus on gaining hands-on experience with vulnerabilities and 
+attacks at both system and networking levels, and getting involved in the security community. 
+There's no experience or knowledge required, only an interest in learning more about
+this incredibly important and expanding field!    
+<p>If you have any questions, comments, or concerns, you can 
+<a href="http://lists.oregonstate.edu/mailman/listinfo/osusec">join our mailing list</a> 
+or find us at #osu-sec on irc.freenode.net.</p>
+    {% assign posts = site.categories.people | sort:'rank' %}
+        {% for person in posts %}
+        <div class='officer'>
+            <img src='{{person.img}}'>
+            <div class='text'>
+            <h3>{{ person.name }}, {{ person.position }}</h3>
+            {{ person.content }}
+            </div>
+        </div>
+    {% endfor %}
+</section>

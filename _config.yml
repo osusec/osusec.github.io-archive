@@ -1,0 +1,15 @@
+# Site settings
+title: OSU Security Club
+description: > # this means to ignore newlines until "baseurl:"
+    Official website for the OSU Security Club
+baseurl: "" # the subpath of your site, e.g. /blog/
+url:
+source: .
+destination: ./site
+permalink: /:slug.html
+
+
+# Build settings
+markdown: kramdown
+
+

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+    <div class='banner'>
+        <h1>OSU Security Club</h1>
+        <img src='assets/img/transparent_icon.png'>
+        <h2>Thursdays 6pm, KEC1007</h2>
+    </div>
+
+    <div class='columns'> 
+       <div class='column' id='one'>
+            <h3>News</h3>
+            {% assign posts = site.categories.events %}
+            {% for event in posts %}
+            <ul>
+                <li><h4>&#8250; {{ event.title }}</h4>
+                <p>{{ event.date }}</p>
+                {{ event.content }}</li>
+                <br>
+            </ul>
+            {% endfor %}
+        </div>
+        <div class='column' id='two'>
+            <h3>What We Do</h3>
+            <ul>
+                <li><p>&#8250; Web Application Security</p></li>
+                <li><p>&#8250; Capture the Flag</p></li>
+                <li><p>&#8250; Cryptography</p></li>
+                <li><p>&#8250; Bug Bounties</p></li>
+                <li><p>&#8250; Network Security</p></li>
+                <li><p>&#8250; Reverse Engineering</p></li>
+            <ul>
+        </div>
+        <div class='column' id='three'>
+            <h3>Why We Love Security</h3>
+            <ul>
+                <li><p>&#8250; It's the perfect combination of math and computer science.</p></li>
+                <li><p>&#8250; It's a great way to expand your technical skillset, both for personal growth and professional development</p></li>
+            </ul> 
+        </div>
+    </div>
