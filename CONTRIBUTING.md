@@ -5,7 +5,7 @@ Welcome to the OSU Security Club Website!  This site is powered
 by Jekyll and hosted on Github.  
 
 Mechanics
-.........
+~~~~~~~~~
 
 First Things First
 ------------------
@@ -34,7 +34,7 @@ Once you've made all the changes you'd like run
 7. Profit.
 
 File Structure
-..............
+~~~~~~~~~~~~~~
 
 The file structure may seem a little unintuitive if you haven't used
 Jekyll before, so let me clarify things a little.  
