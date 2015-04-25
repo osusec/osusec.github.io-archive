@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code of Ethics
+slug: code-of-ethics
 ---
 
 This is an adaptation of the code of ethics adopted by the Information Security

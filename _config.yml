@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url:
 source: .
 destination: ./site
-permalink: /:slug.html
+permalink: /:title.html
 
 
 # Build settings

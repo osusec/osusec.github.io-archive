@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resources
+slug: resources
 ---
 
 Interested in learning more about security?  Here are some awesome resources to help
