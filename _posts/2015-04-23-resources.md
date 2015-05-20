@@ -15,8 +15,8 @@ get you started!
     * [capture.thefl.ag](http://captf.com)
 * Wargames:
     * [Over The Wire](http://overthewire.org/wargames/), various types of wargames.
-	    <!-- The div, ul, and li tags are used here only to align the game descriptions. -->
-	    <div id="overthewire_games">
+        <!-- The div, ul, and li tags are used here only to align the game descriptions. -->
+        <div id="overthewire_games">
         <ul class="multicolumn-left">
             <li>Bandit:</li>
             <li>Leviathan:</li>
@@ -45,7 +45,7 @@ get you started!
             <li>Shellcode</li>            <!-- Vortex    -->
             <li>Shellcode</li>            <!-- Drifter   -->
         </ul>
-		</div>
+        </div>
     * [microcorruption](http://microcorruption.com), Embedded security using assembly code.
     * [pwnable.kr](http://pwnable.kr/)
     * [Smash The Stack](http://smashthestack.org/)
