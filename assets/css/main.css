@@ -138,6 +138,13 @@ li {
   .meeting strong {
     color: #AE1215; }
 
+.multicolumn-left {
+  display:inline-block; }
+
+.multicolumn-other {
+  display:inline-block;
+  list-style-type:none; }
+
 .footer {
   padding: 20px;
   margin: 0px; }
