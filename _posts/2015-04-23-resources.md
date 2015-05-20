@@ -19,6 +19,7 @@ get you started!
     * [Smash The Stack](http://smashthestack.org/)
     * [Hacker.org](http://hacker.org)
     * [Over The Wire](http://overthewire.org/wargames/), various types of wargames.
+
 <div id="overthewire_games">
 <!-- The div, ul, and li tags are used here only to align the game descriptions. -->
 <ul class="multicolumn-left">
@@ -50,7 +51,9 @@ get you started!
 <li>Shellcode</li>            <!-- Drifter   -->
 </ul>
 </div>
+
 * Cryptography:
+
     * [Cryptopals](http://cryptopals.com/), a no-knowledge-necessary site with cryptographic challenges, similar to the well-known [Euler projects](https://projecteuler.net/)
     * [Khan Academy's Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography), a video-lecture series for beginning cryptography.
     * [Learn Cryptography](http://learncryptography.com/), a site to teach you cryptography from the ground up.
