@@ -4,39 +4,34 @@
     <title>OSU Security Club</title>
     <description>Official website for the OSU Security Club
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Apr 2015 15:22:48 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2015 15:22:48 -0700</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Feb 2018 14:54:56 -0800</pubDate>
+    <lastBuildDate>Sun, 11 Feb 2018 14:54:56 -0800</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
     
       <item>
-        <title>Thursday Meeting</title>
-        <description>&lt;p&gt;Weekly Security club meeting&lt;/p&gt;
+        <title>Zander</title>
+        <description>&lt;p&gt;Zander is a freshman studying Computer Science. He is a Security Analyst in the OSU Office of Information Security. You can view his website &lt;a href=&quot;https://www.zanderwork.com&quot;&gt;here&lt;/a&gt; or his Github &lt;a href=&quot;https://www.github.com/zzzanderw&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/zander.html</link>
+        <guid isPermaLink="true">http://localhost:4000/zander.html</guid>
+        
+        
+        <category>people</category>
+        
+      </item>
+    
+      <item>
+        <title>Nathan</title>
+        <description>&lt;p&gt;Nathan is a student at Oregon State University studying biography writing. His senior project will go here. /s&lt;/p&gt;
 
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/* bio tbd */&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Apr 2015 18:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
-        
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>Lucy</title>
-        <description>&lt;p&gt;Lucy (lucyw on irc.freenode.net), a Junior studying Computer Science, 
-works for the &lt;a href=&quot;http://osuosl.org&quot;&gt;OSU Open Source Lab&lt;/a&gt;
-as a front-end engineer.  She enjoys &lt;a href=&quot;http://github.com/lucywyman&quot;&gt;programming&lt;/a&gt;, running, and 
-&lt;a href=&quot;http://github.com/lucywyman/recipes&quot;&gt;cooking&lt;/a&gt;. In addition, Lucy is Vice President of the 
-&lt;a href=&quot;http://lug.oregonstate.edu&quot;&gt;OSU Linux Users Group&lt;/a&gt;, and leads 
-&lt;a href=&quot;http://devopsbootcamp.osuosl.org&quot;&gt;Devops Bootcamp&lt;/a&gt;, an outreach program for budding 
-software developers.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/nathan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/nathan.html</guid>
         
         
         <category>people</category>
@@ -44,15 +39,14 @@ software developers.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Ian</title>
-        <description>&lt;p&gt;Ian (muricula on irc.freenode.net) is a Junior studying Computer Science and a web developer at the 
-&lt;a href=&quot;http://osuosl.org&quot;&gt;OSU Open Source Lab&lt;/a&gt;.  He’s fluent in Turkish and can often be found on 
-&lt;a href=&quot;http://lug.oregonstate.edu/blog/irc/&quot;&gt;IRC&lt;/a&gt; undertaking ambitious hacking projects 
-such as &lt;a href=&quot;http://github.com/iankronquist/kernel-of-truth&quot;&gt;booting a Rust kernel on a raspberry pi&lt;/a&gt;.&lt;/p&gt;
+        <title>Erich</title>
+        <description>&lt;p&gt;Erich is a student at Oregon State University studying biography writing. His senior project will go here. /s&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/* bio tbd */&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/erich.html</link>
+        <guid isPermaLink="true">http://localhost:4000/erich.html</guid>
         
         
         <category>people</category>
@@ -60,54 +54,14 @@ such as &lt;a href=&quot;http://github.com/iankronquist/kernel-of-truth&quot;&gt
       </item>
     
       <item>
-        <title>Emily</title>
-        <description>&lt;p&gt;Emily (edunham on irc.freenode.net) is a Senior studying Computer Science. 
-She’s a systems administrator at the &lt;a href=&quot;http://osuosl.org&quot;&gt;OSU Open Source Lab&lt;/a&gt;.
-Outside of the OSL, Emily is involved with the &lt;a href=&quot;http://lug.oregonstate.edu&quot;&gt;Linux Users Group&lt;/a&gt;
-and volunteers at &lt;a href=&quot;http://www.usfirst.org/roboticsprograms/frc&quot;&gt;FIRST robotics&lt;/a&gt; events. 
-She also has a &lt;a href=&quot;https://github.com/edunham&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+        <title>Cody</title>
+        <description>&lt;p&gt;Cody is a student at Oregon State University studying biography writing. His senior project will go here. /s&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/* bio tbd */&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
-        
-        
-        <category>people</category>
-        
-      </item>
-    
-      <item>
-        <title>Eli</title>
-        <description>&lt;p&gt;Elijah Voigt (pop&lt;code&gt; on irc.freenode.net) is the President of the
-&lt;/code&gt;OSU Linux Users Group &lt;a href=&quot;http://lug.oregonstate.edu/&quot;&gt;http://lug.oregonstate.edu/&lt;/a&gt;&lt;code&gt;_,
-Secretary of the
-&lt;/code&gt;OSU Security Club &lt;a href=&quot;http://osusec.github.io/&quot;&gt;http://osusec.github.io/&lt;/a&gt;&lt;code&gt;_,
-and a Developer at the
-&lt;/code&gt;OSU Open Source Lab &lt;a href=&quot;http://osuosl.org/&quot;&gt;http://osuosl.org/&lt;/a&gt;&lt;code&gt;_.
-In his spare time he contributes to the Open Source community by giving
-&lt;/code&gt;talks &lt;a href=&quot;http://slides.elijahcaine.me/&quot;&gt;http://slides.elijahcaine.me/&lt;/a&gt;&lt;code&gt;_ and contributing to Open Source Projects
-(see: &lt;/code&gt;Github &lt;a href=&quot;http://github.com/elijahcaine/&quot;&gt;http://github.com/elijahcaine/&lt;/a&gt;&lt;code&gt;_)
-He also has a &lt;/code&gt;website &lt;a href=&quot;http://elijahcaine.me/&quot;&gt;http://elijahcaine.me/&lt;/a&gt;`_.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
-        
-        
-        <category>people</category>
-        
-      </item>
-    
-      <item>
-        <title>Daniel</title>
-        <description>&lt;p&gt;Daniel is a senior studying Computer Science and Math. He is a
-&lt;a href=&quot;https://priv.ly/&quot;&gt;maintainer&lt;/a&gt; and &lt;a href=&quot;https://whispersystems.org/&quot;&gt;contributor&lt;/a&gt;
-of software projects that develop easy to use encrypted messaging products. He
-is engrossed in cryptography and system, application, and network security.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/cody.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cody.html</guid>
         
         
         <category>people</category>
@@ -120,16 +74,84 @@ is engrossed in cryptography and system, application, and network security.&lt;/
 get you started!&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ctftime.org/&quot;&gt;CTF Time&lt;/a&gt;, a site which lists upcoming Capture the Flag events, as well as teams and their statistics.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cryptopals.com/&quot;&gt;Cryptopals&lt;/a&gt;, a no-knowledge-necessary site with cryptographic challenges, similar to the well-known &lt;a href=&quot;https://projecteuler.net/&quot;&gt;Euler projects&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/computing/computer-science/cryptography&quot;&gt;Khan Academy’s Cryptography Series&lt;/a&gt;, a video-lecture series for beginning cryptograph.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learncryptography.com/&quot;&gt;Learn Cryptograph&lt;/a&gt;, a site to teach you cryptography from the ground up.&lt;/li&gt;
+  &lt;li&gt;Capture the Flag (CTF):
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://trailofbits.github.io/ctf/index.html&quot;&gt;CTF Field Guide&lt;/a&gt;, a resource guide to all of the categories listed here, to toolkit creation, and to careers in the security field.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ctftime.org/&quot;&gt;CTF Time&lt;/a&gt;, a site which lists upcoming Capture the Flag events, as well as teams and their statistics.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CTF Event Archives:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://shell-storm.org/repo/CTF/&quot;&gt;shell-storm.org&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://captf.com&quot;&gt;capture.thefl.ag&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wargames:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://microcorruption.com&quot;&gt;microcorruption&lt;/a&gt;, Embedded security using assembly code.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://pwnable.kr/&quot;&gt;pwnable.kr&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://smashthestack.org/&quot;&gt;Smash The Stack&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://hacker.org&quot;&gt;Hacker.org&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://overthewire.org/wargames/&quot;&gt;Over The Wire&lt;/a&gt;, various types of wargames.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;overthewire_games&quot;&gt;
+&lt;!-- The div, ul, and li tags are used here only to align the game descriptions. --&gt;
+&lt;ul class=&quot;multicolumn-left&quot;&gt;
+&lt;li&gt;Bandit:&lt;/li&gt;
+&lt;li&gt;Leviathan:&lt;/li&gt;
+&lt;li&gt;Krypton:&lt;/li&gt;
+&lt;li&gt;Narnia:&lt;/li&gt;
+&lt;li&gt;Behemoth:&lt;/li&gt;
+&lt;li&gt;Utumno:&lt;/li&gt;
+&lt;li&gt;Manpages:&lt;/li&gt;
+&lt;li&gt;Natas:&lt;/li&gt;
+&lt;li&gt;Maze:&lt;/li&gt;
+&lt;li&gt;Semtex:&lt;/li&gt;
+&lt;li&gt;Vortex:&lt;/li&gt;
+&lt;li&gt;Drifter:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;multicolumn-other&quot;&gt;
+&lt;li&gt;Introduction to the Shell (useful even to those experienced with a Unux shell)&lt;/li&gt; &lt;!-- Bandit --&gt;
+&lt;li&gt;Introduction&lt;/li&gt;         &lt;!-- Leviathan --&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;         &lt;!-- Krypton   --&gt;
+&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Narnia    --&gt;
+&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Behemoth  --&gt;
+&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Utumno    --&gt;
+&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Manpages  --&gt;
+&lt;li&gt;Web vulnerabilities&lt;/li&gt;  &lt;!-- Natas     --&gt;
+&lt;li&gt;Debugging/Reversing&lt;/li&gt;  &lt;!-- Maze      --&gt;
+&lt;li&gt;Various&lt;/li&gt;              &lt;!-- Semtex    --&gt;
+&lt;li&gt;Shellcode&lt;/li&gt;            &lt;!-- Vortex    --&gt;
+&lt;li&gt;Shellcode&lt;/li&gt;            &lt;!-- Drifter   --&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cryptography:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://cryptopals.com/&quot;&gt;Cryptopals&lt;/a&gt;, a no-knowledge-necessary site with cryptographic challenges, similar to the well-known &lt;a href=&quot;https://projecteuler.net/&quot;&gt;Euler projects&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/computing/computer-science/cryptography&quot;&gt;Khan Academy’s Cryptography Series&lt;/a&gt;, a video-lecture series for beginning cryptography.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://learncryptography.com/&quot;&gt;Learn Cryptography&lt;/a&gt;, a site to teach you cryptography from the ground up.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bug Bounties / Code Auditing:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hackerone.com/internet-bug-bounty&quot;&gt;HackerOne&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://code.google.com/p/webgoat/&quot;&gt;webgoat&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
         <pubDate>Thu, 23 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
+        <link>http://localhost:4000/resources.html</link>
+        <guid isPermaLink="true">http://localhost:4000/resources.html</guid>
         
         
       </item>
@@ -219,8 +241,8 @@ Ethics.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 23 Apr 2015 00:00:00 -0700</pubDate>
-        <link>/:slug.html</link>
-        <guid isPermaLink="true">/:slug.html</guid>
+        <link>http://localhost:4000/code-of-ethics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/code-of-ethics.html</guid>
         
         
       </item>
