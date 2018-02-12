@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Feb 2018 15:01:23 -0800</pubDate>
-    <lastBuildDate>Sun, 11 Feb 2018 15:01:23 -0800</lastBuildDate>
+    <pubDate>Sun, 11 Feb 2018 18:19:40 -0800</pubDate>
+    <lastBuildDate>Sun, 11 Feb 2018 18:19:40 -0800</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -55,9 +55,7 @@
     
       <item>
         <title>Cody</title>
-        <description>&lt;p&gt;Cody is a student at Oregon State University studying biography writing. His senior project will go here. /s&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/* bio tbd */&lt;/code&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Cody is a fourth year CS student with an interest in security. He will be graduating in Spring.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/cody.html</link>
