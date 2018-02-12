@@ -11,6 +11,7 @@ get you started!
     * [CTF Field Guide](https://trailofbits.github.io/ctf/index.html), a resource guide to all of the categories listed here, to toolkit creation, and to careers in the security field.
     * [CTF Time](https://ctftime.org/), a site which lists upcoming Capture the Flag events, as well as teams and their statistics.
     * [DOE CDC](https://cyberdefense.anl.gov/), a cyber-defense competition on April 6-7, 2018.
+        * [Click here to fill out interest form](https://goo.gl/yAurwP).
 * CTF Event Archives:
     * [shell-storm.org](http://shell-storm.org/repo/CTF/)
     * [capture.thefl.ag](http://captf.com)
