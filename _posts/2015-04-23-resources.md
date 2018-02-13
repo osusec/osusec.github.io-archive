@@ -16,46 +16,24 @@ get you started!
     * [shell-storm.org](http://shell-storm.org/repo/CTF/)
     * [capture.thefl.ag](http://captf.com)
 * Wargames:
+    * [Over The Wire](http://overthewire.org/wargames/), various types of wargames.
+        * Bandit: &nbsp;Introduction to the Shell (useful even to those experienced with a Unux shell)
+        * Leviathan: &nbsp;Introduction
+        * Krypton: &nbsp;Cryptography
+        * Narnia: &nbsp;Source code auditing
+        * Behemoth: &nbsp;Source code auditing
+        * Utumno: &nbsp;Source code auditing
+        * Manpages: &nbsp;Source code auditing
+        * Natas: &nbsp;Web vulnerabilities
+        * Maze: &nbsp;Debugging/Reversing
+        * Semtex: &nbsp;Various
+        * Vortex: &nbsp;Shellcode
+        * Drifter: &nbsp;Shellcode
     * [microcorruption](http://microcorruption.com), Embedded security using assembly code.
     * [pwnable.kr](http://pwnable.kr/)
     * [Smash The Stack](http://smashthestack.org/)
     * [Hacker.org](http://hacker.org)
-    * [Over The Wire](http://overthewire.org/wargames/), various types of wargames.
-
-<div id="overthewire_games">
-<!-- The div, ul, and li tags are used here only to align the game descriptions. -->
-<ul class="multicolumn-left">
-<li>Bandit:</li>
-<li>Leviathan:</li>
-<li>Krypton:</li>
-<li>Narnia:</li>
-<li>Behemoth:</li>
-<li>Utumno:</li>
-<li>Manpages:</li>
-<li>Natas:</li>
-<li>Maze:</li>
-<li>Semtex:</li>
-<li>Vortex:</li>
-<li>Drifter:</li>
-</ul>
-<ul class="multicolumn-other">
-<li>Introduction to the Shell (useful even to those experienced with a Unux shell)</li> <!-- Bandit -->
-<li>Introduction</li>         <!-- Leviathan -->
-<li>Cryptography</li>         <!-- Krypton   -->
-<li>Source code auditing</li> <!-- Narnia    -->
-<li>Source code auditing</li> <!-- Behemoth  -->
-<li>Source code auditing</li> <!-- Utumno    -->
-<li>Source code auditing</li> <!-- Manpages  -->
-<li>Web vulnerabilities</li>  <!-- Natas     -->
-<li>Debugging/Reversing</li>  <!-- Maze      -->
-<li>Various</li>              <!-- Semtex    -->
-<li>Shellcode</li>            <!-- Vortex    -->
-<li>Shellcode</li>            <!-- Drifter   -->
-</ul>
-</div>
-
 * Cryptography:
-
     * [Cryptopals](http://cryptopals.com/), a no-knowledge-necessary site with cryptographic challenges, similar to the well-known [Euler projects](https://projecteuler.net/)
     * [Khan Academy's Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography), a video-lecture series for beginning cryptography.
     * [Learn Cryptography](http://learncryptography.com/), a site to teach you cryptography from the ground up.
