@@ -16,7 +16,7 @@ get you started!
     * [shell-storm.org](http://shell-storm.org/repo/CTF/)
     * [capture.thefl.ag](http://captf.com)
 * Wargames:
-    * [Over The Wire](http://overthewire.org/wargames/), various types of wargames.
+    * [Over The Wire](https://overthewire.org/wargames/), various types of wargames.
         * Bandit: &nbsp;Introduction to the Shell (useful even to those experienced with a Unux shell)
         * Leviathan: &nbsp;Introduction
         * Krypton: &nbsp;Cryptography
@@ -33,8 +33,9 @@ get you started!
     * [pwnable.kr](http://pwnable.kr/)
     * [Smash The Stack](http://smashthestack.org/)
     * [Hacker.org](http://hacker.org)
+    * [hackthebox.eu](https://www.hackthebox.eu/), hack into living machines seeking user & root privileges
 * Cryptography:
-    * [Cryptopals](http://cryptopals.com/), a no-knowledge-necessary site with cryptographic challenges, similar to the well-known [Euler projects](https://projecteuler.net/)
+    * [Cryptopals](https://cryptopals.com/), a no-knowledge-necessary site with cryptographic challenges, similar to the well-known [Euler projects](https://projecteuler.net/)
     * [Khan Academy's Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography), a video-lecture series for beginning cryptography.
     * [Learn Cryptography](http://learncryptography.com/), a site to teach you cryptography from the ground up.
 * Bug Bounties / Code Auditing:
