@@ -33,6 +33,7 @@ get you started!
     * [pwnable.kr](http://pwnable.kr/)
     * [Smash The Stack](http://smashthestack.org/)
     * [Hacker.org](http://hacker.org)
+    * [hackthebox.eu](https://www.hackthebox.eu/), hack into living machines seeking user & root privileges
 * Cryptography:
     * [Cryptopals](http://cryptopals.com/), a no-knowledge-necessary site with cryptographic challenges, similar to the well-known [Euler projects](https://projecteuler.net/)
     * [Khan Academy's Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography), a video-lecture series for beginning cryptography.
