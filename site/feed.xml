@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Feb 2018 16:30:06 -0800</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2018 16:30:06 -0800</lastBuildDate>
+    <pubDate>Sat, 17 Feb 2018 18:27:08 -0800</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2018 18:27:08 -0800</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -91,59 +91,36 @@ get you started!&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Wargames:
     &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://overthewire.org/wargames/&quot;&gt;Over The Wire&lt;/a&gt;, various types of wargames.
+        &lt;ul&gt;
+          &lt;li&gt;Bandit:  Introduction to the Shell (useful even to those experienced with a Unux shell)&lt;/li&gt;
+          &lt;li&gt;Leviathan:  Introduction&lt;/li&gt;
+          &lt;li&gt;Krypton:  Cryptography&lt;/li&gt;
+          &lt;li&gt;Narnia:  Source code auditing&lt;/li&gt;
+          &lt;li&gt;Behemoth:  Source code auditing&lt;/li&gt;
+          &lt;li&gt;Utumno:  Source code auditing&lt;/li&gt;
+          &lt;li&gt;Manpages:  Source code auditing&lt;/li&gt;
+          &lt;li&gt;Natas:  Web vulnerabilities&lt;/li&gt;
+          &lt;li&gt;Maze:  Debugging/Reversing&lt;/li&gt;
+          &lt;li&gt;Semtex:  Various&lt;/li&gt;
+          &lt;li&gt;Vortex:  Shellcode&lt;/li&gt;
+          &lt;li&gt;Drifter:  Shellcode&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://microcorruption.com&quot;&gt;microcorruption&lt;/a&gt;, Embedded security using assembly code.&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://pwnable.kr/&quot;&gt;pwnable.kr&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://smashthestack.org/&quot;&gt;Smash The Stack&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://hacker.org&quot;&gt;Hacker.org&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://overthewire.org/wargames/&quot;&gt;Over The Wire&lt;/a&gt;, various types of wargames.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;overthewire_games&quot;&gt;
-&lt;!-- The div, ul, and li tags are used here only to align the game descriptions. --&gt;
-&lt;ul class=&quot;multicolumn-left&quot;&gt;
-&lt;li&gt;Bandit:&lt;/li&gt;
-&lt;li&gt;Leviathan:&lt;/li&gt;
-&lt;li&gt;Krypton:&lt;/li&gt;
-&lt;li&gt;Narnia:&lt;/li&gt;
-&lt;li&gt;Behemoth:&lt;/li&gt;
-&lt;li&gt;Utumno:&lt;/li&gt;
-&lt;li&gt;Manpages:&lt;/li&gt;
-&lt;li&gt;Natas:&lt;/li&gt;
-&lt;li&gt;Maze:&lt;/li&gt;
-&lt;li&gt;Semtex:&lt;/li&gt;
-&lt;li&gt;Vortex:&lt;/li&gt;
-&lt;li&gt;Drifter:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul class=&quot;multicolumn-other&quot;&gt;
-&lt;li&gt;Introduction to the Shell (useful even to those experienced with a Unux shell)&lt;/li&gt; &lt;!-- Bandit --&gt;
-&lt;li&gt;Introduction&lt;/li&gt;         &lt;!-- Leviathan --&gt;
-&lt;li&gt;Cryptography&lt;/li&gt;         &lt;!-- Krypton   --&gt;
-&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Narnia    --&gt;
-&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Behemoth  --&gt;
-&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Utumno    --&gt;
-&lt;li&gt;Source code auditing&lt;/li&gt; &lt;!-- Manpages  --&gt;
-&lt;li&gt;Web vulnerabilities&lt;/li&gt;  &lt;!-- Natas     --&gt;
-&lt;li&gt;Debugging/Reversing&lt;/li&gt;  &lt;!-- Maze      --&gt;
-&lt;li&gt;Various&lt;/li&gt;              &lt;!-- Semtex    --&gt;
-&lt;li&gt;Shellcode&lt;/li&gt;            &lt;!-- Vortex    --&gt;
-&lt;li&gt;Shellcode&lt;/li&gt;            &lt;!-- Drifter   --&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cryptography:&lt;/p&gt;
-
+  &lt;li&gt;Cryptography:
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://cryptopals.com/&quot;&gt;Cryptopals&lt;/a&gt;, a no-knowledge-necessary site with cryptographic challenges, similar to the well-known &lt;a href=&quot;https://projecteuler.net/&quot;&gt;Euler projects&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/computing/computer-science/cryptography&quot;&gt;Khan Academy’s Cryptography Series&lt;/a&gt;, a video-lecture series for beginning cryptography.&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;http://learncryptography.com/&quot;&gt;Learn Cryptography&lt;/a&gt;, a site to teach you cryptography from the ground up.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bug Bounties / Code Auditing:&lt;/p&gt;
+  &lt;li&gt;Bug Bounties / Code Auditing:
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://hackerone.com/internet-bug-bounty&quot;&gt;HackerOne&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://code.google.com/p/webgoat/&quot;&gt;webgoat&lt;/a&gt;&lt;/li&gt;
