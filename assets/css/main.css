@@ -68,14 +68,16 @@ li {
   margin: 0px;
   padding: 0px;
   background: #AE1215;
+  color: #fff;
   height: auto;
-  display: block;
-  color: #fff; }
+  display: flex;
+  flex-wrap: wrap; }
   .columns .column {
     width: 30%;
     padding: 20px;
     display: table-cell;
-    vertical-align: top; }
+    vertical-align: top;
+    flex-grow: 1; }
   .columns #one {
     height: 100%;
     border-right: 2px dotted #000; }
@@ -152,6 +154,17 @@ li {
     color: #000; }
 
 @media (max-width: 550px) {
+  .columns .column {
+    width: 100%; }
+    .columns .column ul {
+      padding: 0; }
+    .columns #one {
+      border-right: none;
+      border-bottom: 2px dotted #000; }
+    .columns #three {
+      border-left: none;
+      border-top: 2px dotted #000; }
+
   .officer {
     min-width: 300px;
     max-width: 100%; }

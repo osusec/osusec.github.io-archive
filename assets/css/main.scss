@@ -95,7 +95,8 @@ li{
     padding: 0px;
     background: $prim;
     height: auto;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     color: $light;
 
     .column{
@@ -202,6 +203,9 @@ li{
 }
 
 @media (max-width: 550px){
+    .columns .column ul {
+      padding: 0; }
+
     .officer{
         min-width: 300px;
         max-width: 100%;
