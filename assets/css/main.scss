@@ -1,6 +1,7 @@
 //@import 'normalize';
 
 $bodybg: #FFF;
+$nav-color: rgba(249, 249, 249, .7);
 $prim: #AE1215;
 $sec: #292929;
 $accent: #AE1215;
@@ -18,23 +19,25 @@ body{
 
 //Navigation
 #navbar{
-    height: $navheight;
-    background: rgba(249, 249, 249, .7);
+    height: auto;
+    background: $nav-color;
+    display: flex;
     
     ul{
-        height: $navheight;
         margin: 0px;
         padding: 0px;
-        display: inline-block;
+        display: flex;
+        flex-wrap: wrap;
+        background: $nav-color;
         
         li{
-            display: inline-block;
+            height: $navheight;
+            display: inline-flex;
             padding: 0px;
             margin: 0px;
             
             a{
                 line-height: $navheight;
-                display: block;
                 padding: 0px 10px;
                 color: $accent;
                 font-size: 20px;
@@ -204,17 +207,25 @@ li{
     }
 }
 
-@media (max-width: 550px){
-    .columns .column {
-      width: 100%; }
-      .columns .column ul {
-        padding: 0; }
-      .columns #one {
-        border-right: none;
-        border-bottom: 2px dotted $dark; }
-      .columns #three {
-        border-left: none;
-        border-top: 2px dotted $dark; }
+@media (max-width: 600px){
+    .columns{
+        .column{ 
+            width: 100%;
+
+            ul{
+                padding: 0;
+            }
+        }
+
+        #one{
+            border-right: none;
+            border-bottom: 2px dotted $dark; 
+        }
+        #three{
+            border-left: none;
+            border-top: 2px dotted $dark;
+        }
+    }
 
     .officer{
         min-width: 300px;
@@ -222,9 +233,8 @@ li{
     }
     
     #navbar{
-        display:none;
-    }    
-    #mobile-nav{
-        display: block;
+        ul{
+            justify-content: center;
+        }
     }
 }

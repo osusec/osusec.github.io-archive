@@ -4,20 +4,22 @@ body {
   background: #FFF; }
 
 #navbar {
-  height: 50px;
-  background: rgba(249, 249, 249, 0.7); }
+  height: auto;
+  background: rgba(249, 249, 249, 0.7);
+  display: flex; }
   #navbar ul {
-    height: 50px;
     margin: 0px;
     padding: 0px;
-    display: inline-block; }
+    display: flex;
+    flex-wrap: wrap;
+    background: rgba(249, 249, 249, 0.7); }
     #navbar ul li {
-      display: inline-block;
+      height: 50px;
+      display: inline-flex;
       padding: 0px;
       margin: 0px; }
       #navbar ul li a {
         line-height: 50px;
-        display: block;
         padding: 0px 10px;
         color: #AE1215;
         font-size: 20px; }
@@ -152,7 +154,7 @@ li {
   .footer h4 {
     color: #000; }
 
-@media (max-width: 550px) {
+@media (max-width: 600px) {
   .columns .column {
     width: 100%; }
     .columns .column ul {
@@ -168,10 +170,7 @@ li {
     min-width: 300px;
     max-width: 100%; }
 
-  #navbar {
-    display: none; }
-
-  #mobile-nav {
-    display: block; } }
+  #navbar ul {
+    justify-content: center; } }
 
 /*# sourceMappingURL=main.css.map */
