@@ -73,16 +73,15 @@ li {
   display: flex;
   flex-wrap: wrap; }
   .columns .column {
+    height: inherit;
     width: 30%;
     padding: 20px;
     display: table-cell;
     vertical-align: top;
     flex-grow: 1; }
   .columns #one {
-    height: 100%;
     border-right: 2px dotted #000; }
   .columns #three {
-    height: 100%;
     border-left: 2px dotted #000; }
   .columns a {
     color: #ababab; }

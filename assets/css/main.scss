@@ -100,10 +100,12 @@ li{
     color: $light;
 
     .column{
+        height: inherit;
         width: 30%;
         padding: 20px;
         display: table-cell;
         vertical-align: top;
+        flex-grow: 1;
     }
 
     #one{
@@ -203,8 +205,16 @@ li{
 }
 
 @media (max-width: 550px){
-    .columns .column ul {
-      padding: 0; }
+    .columns .column {
+      width: 100%; }
+      .columns .column ul {
+        padding: 0; }
+      .columns #one {
+        border-right: none;
+        border-bottom: 2px dotted $dark; }
+      .columns #three {
+        border-left: none;
+        border-top: 2px dotted $dark; }
 
     .officer{
         min-width: 300px;
